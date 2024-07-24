@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Hero__bg{
+    background-image: url(./img/hero_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
